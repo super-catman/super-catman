@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @super-catman
+- 👋 Hi, I’m supercatman
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me github
+- 📫 How to reach me: on github
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like cats
